@@ -8,7 +8,11 @@ I am a PhD Candidate in the Department of Genetics at Stanford University School
 
 ## Research Interests
 
+Many, forthcoming.
+
 ## Education
+
+Too much, forthcoming.
 
 ## Publications
 
@@ -22,3 +26,5 @@ I am a PhD Candidate in the Department of Genetics at Stanford University School
 {: reversed="reversed"}
 
 ## References
+
+Not enough, forthcoming.
