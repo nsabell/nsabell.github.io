@@ -12,7 +12,7 @@ Nathan S. Abell
 
 ## Publications
 
-1.
-2.
+1. X
+2. Y
 
 ## References
