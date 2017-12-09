@@ -12,4 +12,7 @@ Nathan S. Abell
 
 ## Publications
 
+1.
+2.
+
 ## References
