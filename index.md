@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am a PhD Candidate in the Department of Genetics at Stanford University School of Medicine, and a member of the Montgomery Lab in the Departments of Pathology and Genetics.
+I am a Ph.D. Candidate in the Department of Genetics at Stanford University School of Medicine, and a member of the Montgomery Lab in the Departments of Pathology and Genetics. I am also completing a M.S. in the Department of Statistics.
 
 ## Research Interests
 
@@ -12,7 +12,13 @@ Many, forthcoming.
 
 ## Education
 
-Too much, forthcoming.
+Ph.D. Genetics - Stanford University School of Medicine - 2020 (Expected)
+
+M.S. Statistics - Stanford University - 2018 (Expected)
+
+B.S. Cell and Molecular Biology - University of Texas at Austin - 2013
+
+B.A. Political Science, Philosophy, Plan II Honors - University of Texas at Austin - 2013
 
 ## Publications
 
@@ -28,4 +34,7 @@ Too much, forthcoming.
 
 ## References
 
-Not enough, forthcoming.
+Dr. Vishwanath Iyer - University of Texas at Austin
+Dr. Blerta Xhemalce - University of Texas at Austin
+Dr. Stephen Montgomery - Stanford University School of Medicine
+
