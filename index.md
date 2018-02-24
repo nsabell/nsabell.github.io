@@ -37,7 +37,6 @@ Dr. Blerta Xhemalce - University of Texas at Austin
 
 Dr. Stephen Montgomery - Stanford University School of Medicine
 
-
-\\
+\
 
 
