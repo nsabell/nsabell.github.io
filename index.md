@@ -8,7 +8,7 @@ I am a Ph.D. Candidate in the Department of Genetics at Stanford University Scho
 
 ## Research Interests
 
-Many, forthcoming.
+Computational and statistical genomics, functional/experimental human genomics, high-throughput genetic measurement, sequencing bioinformatics, applied machine learning in molecular biology, small RNA biology, high-dimension statistics, -omics integration, genome technology
 
 ## Education
 
@@ -22,7 +22,7 @@ B.A. Political Science, Philosophy, Plan II Honors - University of Texas at Aust
 
 ## Publications
 
-8. Shelton SB, Shah NM, **Abell NS**, Devanathan S, Mercado M, Xhemalce B. Crosstalk between the RNA methylation and histone binding activities of MePCE regulates P-TEFb activation on chromatin. Accepted at Cell Reports. 2018. [Co-Second Author with Shah NM]
+8. Shelton SB, Shah NM, **Abell NS**, Devanathan S, Mercado M, Xhemalce B. [Crosstalk between the RNA methylation and histone binding activities of MePCE regulates P-TEFb activation on chromatin.] (https://www.ncbi.nlm.nih.gov/pubmed/29425494) Cell Reports. 2018;22(6):1374-1383. [Co-Second Author with Shah NM]
 7. **GTEx Consortium**. [Genetic effects on gene expression across human tissues.](https://www.ncbi.nlm.nih.gov/pubmed/29022597) Nature. 2017;550(7675):204-213. [As member of the Consortium]
 6. Zacharioudakis E, Agarwal P, Bartoli A, **Abell NS**, Kunalingam L, Bergoglio V, Xhemalce B, Miller KM, Rodriguez R. [Chromatin Regulates Genome Targeting with Cisplatin.](https://www.ncbi.nlm.nih.gov/pubmed/28474855) Angew Chem Int Ed Engl. 2017;56(23):6483-6487.
 5. **Abell NS**, Mercado M, Cañeque T, Rodriguez R, Xhemalce B. [Click Quantitative Mass Spectrometry Identifies PIWIL3 as a Mechanistic Target of RNA Interference Activator Enoxacin in Cancer Cells.](https://www.ncbi.nlm.nih.gov/pubmed/28094937) J Am Chem Soc. 2017;139(4):1400-1403. [Co-First Author with Mercado M]
