@@ -17,14 +17,6 @@ Computational and statistical genomics, functional/experimental human genomics, 
 |B.S.|Cell and Molecular Biology|University of Texas at Austin|2013|
 |B.A.|Political Science, Philosophy, and Plan II Honors|University of Texas at Austin|2013|
 
-Ph.D.|Genetics|Stanford University School of Medicine|2020 (Expected)
-
-M.S.|Statistics|Stanford University|2018 (Expected)
-
-B.S.|Cell and Molecular Biology|University of Texas at Austin|2013
-
-B.A.|Political Science, Philosophy, Plan II Honors|University of Texas at Austin|2013
-
 ## Publications
 
 8. Shelton SB, Shah NM, **Abell NS**, Devanathan S, Mercado M, Xhemalce B. [Crosstalk between the RNA methylation and histone binding activities of MePCE regulates P-TEFb activation on chromatin.](https://www.ncbi.nlm.nih.gov/pubmed/29425494) Cell Reports. 2018;22(6):1374-1383. [Co-Second Author with Shah NM]
