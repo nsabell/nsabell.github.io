@@ -35,6 +35,11 @@ B.A. Political Science, Philosophy, Plan II Honors - University of Texas at Aust
 ## References
 
 Dr. Vishwanath Iyer - University of Texas at Austin
+
 Dr. Blerta Xhemalce - University of Texas at Austin
+
 Dr. Stephen Montgomery - Stanford University School of Medicine
+
+
+
 
