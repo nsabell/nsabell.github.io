@@ -12,8 +12,8 @@ Computational and statistical genomics, functional/experimental human genomics, 
 
 ## Education
 
-|Ph.D.|Genetics|Stanford University School of Medicine|2020 (Expected)|
-|M.S.|Statistics|Stanford University|2018 (Expected)|
+|Ph.D.|Genetics|Stanford University School of Medicine|2020 (In Progress)|
+|M.S.|Statistics|Stanford University|2018 (In Progress)|
 |B.S.|Cell and Molecular Biology|University of Texas at Austin|2013|
 |B.A.|Political Science, Philosophy, and Plan II Honors|University of Texas at Austin|2013|
 
@@ -37,6 +37,6 @@ Dr. Blerta Xhemalce - University of Texas at Austin
 
 Dr. Stephen Montgomery - Stanford University School of Medicine
 
-\
+
 
 
