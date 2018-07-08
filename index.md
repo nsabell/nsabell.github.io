@@ -19,7 +19,7 @@ Computational and statistical genomics, functional/experimental human genomics, 
 
 ## Publications
 
-10. Liu B, Calton M, Abell NS, Benchorin G, Gloudemans MJ, Hu J, Balliu B, Bok D, Montgomery SB, Vollrath D. Ocular disease mechanisms elucidated by genetics of human fetal retinal pigment epithelium gene expression. In Review. [Second Author after two Co-First Authors]
+10. Liu B, Calton M, **Abell NS**, Benchorin G, Gloudemans MJ, Hu J, Balliu B, Bok D, Montgomery SB, Vollrath D. Ocular disease mechanisms elucidated by genetics of human fetal retinal pigment epithelium gene expression. In Review. [Second Author after two Co-First Authors]
 9. Reinsborough CW, Ipas H, **Abell NS**, Nottingham RM, Yao J, Shelton SB, Lambowitz AM, Xhemalce B. BCDIN3D regulates tRNA-His 3’ fragment processing. In Review. [Co-First Author with Reinsborough CW, Ipas H, and Nottingham RM]
 8. Shelton SB, Shah NM, **Abell NS**, Devanathan S, Mercado M, Xhemalce B. [Crosstalk between the RNA methylation and histone binding activities of MePCE regulates P-TEFb activation on chromatin.](https://www.ncbi.nlm.nih.gov/pubmed/29425494) Cell Reports. 2018;22(6):1374-1383. [Co-Second Author with Shah NM]
 7. **GTEx Consortium**. [Genetic effects on gene expression across human tissues.](https://www.ncbi.nlm.nih.gov/pubmed/29022597) Nature. 2017;550(7675):204-213. [As member of the Consortium]
