@@ -13,7 +13,7 @@ Computational and statistical genomics, functional/experimental human genomics, 
 ## Education
 
 |Ph.D.|Genetics|Stanford University School of Medicine|2020 (In Progress)|
-|M.S.|Statistics|Stanford University|2018 (In Progress)|
+|M.S.|Statistics|Stanford University|2018|
 |B.S.|Cell and Molecular Biology|University of Texas at Austin|2013|
 |B.A.|Political Science, Philosophy, and Plan II Honors|University of Texas at Austin|2013|
 
