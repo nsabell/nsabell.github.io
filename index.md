@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am a Ph.D. Candidate in the Department of Genetics at Stanford University School of Medicine, and a member of the Montgomery Lab in the Departments of Pathology and Genetics. I am also completing a M.S. in the Department of Statistics.
+I am a Ph.D. Candidate in the Department of Genetics at Stanford University School of Medicine, and a member of the Montgomery Lab in the Departments of Pathology and Genetics. I also spend lots of time in the Statistics and Biomedical Data Science departments.
 
 ## Research Interests
 
