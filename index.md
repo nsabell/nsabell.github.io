@@ -19,6 +19,7 @@ Computational and statistical genomics, functional/experimental human genomics, 
 
 ## Publications
 
+12. Balliu B, Durrant M, de Goede O, **Abell NS**, Li X, Liu B, Gloudemans MJ, Cook N, Smith KS, Pala M, Cucca F, Schlessinger D, Jaiswal S, Sabatti C, Lind L, Ingelsson E, Montgomery SB. Genetic dysregulation of gene expression and splicing during a ten-year period of human aging. In Review.
 11. Liu B<sup>&dagger;</sup>, Calton M<sup>&dagger;</sup>, **Abell NS**, Benchorin G, Gloudemans MJ, Hu J, Balliu B, Bok D, Montgomery SB, Vollrath D. Ocular disease mechanisms elucidated by genetics of human fetal retinal pigment epithelium gene expression. In Review.
 10. Reinsborough CW<sup>&dagger;</sup>, Ipas H<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Nottingham RM<sup>&dagger;</sup>, Yao J, Shelton SB, Lambowitz AM, Xhemalce B. BCDIN3D regulates tRNA-His 3’ fragment processing. In Review.
 9. Ipas H<sup>&dagger;</sup>, Reinsborough C<sup>&dagger;</sup>, Mercado M<sup>&dagger;&dagger;</sup>, Herve S<sup>&dagger;&dagger;</sup>, **Abell NS**<sup>&dagger;&dagger;</sup>, Xhemalce B. ChemRAP uncovers non-canonical role for precursor microRNA phospho-methylation. In Review.
