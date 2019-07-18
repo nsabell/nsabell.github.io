@@ -20,7 +20,7 @@ Computational and statistical genomics, functional/experimental human genomics, 
 ## Publications
 
 11. Balliu B, Durrant M, de Goede O, **Abell NS**, Li X, Liu B, Gloudemans MJ, Cook N, Smith KS, Pala M, Cucca F, Schlessinger D, Jaiswal S, Sabatti C, Lind L, Ingelsson E, Montgomery SB. Genetic dysregulation of gene expression and splicing during a ten-year period of human aging. In Review.
-10. Reinsborough CW<sup>&dagger;</sup>, Ipas H<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Nottingham RM<sup>&dagger;</sup>, Yao J, Shelton SB, Lambowitz AM, Xhemalce B. BCDIN3D regulates tRNA-His 3’ fragment processing. In Review.
+10. Reinsborough CW<sup>&dagger;</sup>, Ipas H<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Nottingham RM<sup>&dagger;</sup>, Yao J, Devanathan SK, Shelton SB, Lambowitz AM, Xhemalce B. BCDIN3D regulates tRNA-His 3’ fragment processing. PLOS Genetics. In Press.
 9. Liu B<sup>&dagger;</sup>, Calton M<sup>&dagger;</sup>, **Abell NS**, Benchorin G, Gloudemans MJ, Hu J, Balliu B, Bok D, Montgomery SB, Vollrath D. [Genetic analyses of human fetal retinal pigment epithelium gene expression suggest ocular disease mechanisms.](https://www.nature.com/articles/s42003-019-0430-6) Communications Biology. 2019;2:186.
 8. Shelton SB, Shah NM<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Devanathan S, Mercado M, Xhemalce B. [Crosstalk between the RNA methylation and histone binding activities of MePCE regulates P-TEFb activation on chromatin.](https://www.ncbi.nlm.nih.gov/pubmed/29425494) Cell Reports. 2018;22(6):1374-1383.
 7. **GTEx Consortium**. [Genetic effects on gene expression across human tissues.](https://www.ncbi.nlm.nih.gov/pubmed/29022597) Nature. 2017;550(7675):204-213. [As member of the Consortium]
