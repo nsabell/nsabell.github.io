@@ -1,5 +1,6 @@
 ---
 layout: default
+markdown: kramdown
 ---
 
 ## About Me
