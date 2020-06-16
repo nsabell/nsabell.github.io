@@ -5,11 +5,11 @@ markdown: kramdown
 
 ## About Me
 
-I am a Ph.D. Candidate in the Department of Genetics at Stanford University School of Medicine, and a member of the Montgomery Lab in the Departments of Pathology and Genetics. I also spend lots of time in the Statistics and Biomedical Data Science departments.
+I am a Ph.D. Candidate in the Department of Genetics at Stanford University School of Medicine, and a member of the Montgomery Lab in the Departments of Pathology and Genetics. I also spend lots of time in the Statistics and Biomedical Data Science departments. I have experience and formal training in experimental molecular biology, bioinformatics/computational biology, and computational/applied statistics. In a past life, I also studied political theory/philosophy and researched comparative constitutional design.
 
 ## Research Interests
 
-Computational and statistical genomics, functional/experimental human genomics, high-throughput genetic measurement, sequencing bioinformatics, applied machine learning in molecular biology, small RNA biology, high-dimension statistics, -omics integration, genome technology
+Computational and statistical genomics, functional and experimental human genomics, high-throughput genetic measurement, sequencing bioinformatics, applied machine learning in molecular biology, small RNA biology, regularization and dimensionality reduction, -omics integration, genome technology
 
 ## Education
 
@@ -37,11 +37,12 @@ Computational and statistical genomics, functional/experimental human genomics, 
 
 ## References
 
-Dr. Vishwanath Iyer - University of Texas at Austin
+Dr. Stephen Montgomery - Stanford University School of Medicine
 
 Dr. Blerta Xhemalce - University of Texas at Austin
 
-Dr. Stephen Montgomery - Stanford University School of Medicine
+Dr. Vishwanath Iyer - University of Texas at Austin
+
 
 
 
