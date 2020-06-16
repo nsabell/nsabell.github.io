@@ -33,7 +33,6 @@ Computational and statistical genomics, functional/experimental human genomics, 
 3. Polioudakis D, **Abell NS**, Iyer VR. [MiR-191 Regulates Primary Human Fibroblast Proliferation and Directly Targets Multiple Oncogenes.](https://www.ncbi.nlm.nih.gov/pubmed/25992613) PLoS ONE. 2015;10(5):e0126535.
 2. Polioudakis D, **Abell NS**, Iyer VR. [miR-503 represses human cell proliferation and directly targets the oncogene DDHD2 by non-canonical target pairing.](https://www.ncbi.nlm.nih.gov/pubmed/25653011) BMC Genomics. 2015;16:40.
 1. Polioudakis D, Bhinge AA, Killion PJ, Lee BK, **Abell NS**, Iyer VR. [A Myc-microRNA network promotes exit from quiescence by suppressing the interferon response and cell-cycle arrest genes.](https://www.ncbi.nlm.nih.gov/pubmed/23303785) Nucleic Acids Research. 2013;41(4):2239-54.
-{: reversed="reversed"}
 
 ## References
 
