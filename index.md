@@ -20,7 +20,7 @@ Computational and statistical genomics, functional and experimental human genomi
 
 ## Publications
 
-0. IN REVIEW: McFadden MJ, McIntyre ABR, Gokhale NS<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Ipas H, Mason CE, Xhemalce B, Horner SM. Post-transcriptional regulation of antiviral gene expression by N6-methyladenosine.
+0. IN REVIEW: McFadden MJ, McIntyre ABR, Gokhale NS<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Ipas H, Xhemalce B, Mason CE, Horner SM. Post-transcriptional regulation of antiviral gene expression by N6-methyladenosine.
 0. IN REVIEW: Spector LP, Tiffany M, Ferraro NM, **Abell NS**, Montgomery SB, Kay MA. Evaluating the genomic parameters for optimizing rAAV-mediated homologous recombination.
 0. Ferraro NM<sup>&dagger;</sup>, Strober BJ<sup>&dagger;</sup>, Einson J, **Abell NS**, Aguet F, Berveira AN, Bucan M, Castel S, Davis JR, Greenwald E, Hess GT, Hilliard AT, Kember RL, Kotis B, Park Y, Peloso G, Ramdas S, Scott AJ, Smail C, Tsang EK, Zekacat S, Ziosi M, Aradhana, TOPMed Lipids Working Group, Ardlie KG, Assimes TL, Bassik MC, Brown CD, Correa A, Hall I, Im HK, Li X, Natarajan P, GTEx Consortium, Lappalainen T, Mohammadi P, Montgomery SB, Battle A. Transcriptomic signatures across human tissues identify functional rare genetic variation. 2020. In Press.
 0. Gay NR, Gloudemans M, Antonio ML, **Abell NS**, Balliu B, Park Y, Martin AR, Musharoff S, Rao A, Aguet F, Barbeira B, Bonazzola R, Hormozdiari F, GTEx Consortium, Ardlie K, Brown CD, Im HK, Lappalainen T, Wen X, Montgomery SB. Impact of admixture and ancestry on eQTL analysis and GWAS colocalization in GTEx. 2020. In Press.
