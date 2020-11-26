@@ -5,7 +5,7 @@ markdown: kramdown
 
 ## About Me
 
-I am a Ph.D. Candidate in the Department of Genetics at Stanford University School of Medicine, and a member of the Montgomery Lab in the Departments of Pathology and Genetics. I also spend lots of time in the Statistics and Biomedical Data Science departments. I have experience and formal training in experimental molecular biology, bioinformatics/computational biology, and computational/applied statistics. In a past life, I also studied political theory/philosophy and researched comparative constitutional design. My full CV can be found [here](CV-NathanAbell.pdf)
+I am a Ph.D. Candidate in the Department of Genetics at Stanford University School of Medicine, and a member of the Montgomery Lab in the Departments of Pathology and Genetics. I also spend lots of time in the Statistics and Biomedical Data Science departments. I have experience and formal training in experimental molecular biology, bioinformatics/computational biology, and computational/applied statistics. In a past life, I also studied political theory/philosophy and researched comparative constitutional design. My full CV can be found [here](CV-NathanAbell.pdf).
 
 ## Research Interests
 
