@@ -9,20 +9,20 @@ I am a Ph.D. Candidate in the Department of Genetics at Stanford University Scho
 
 ## Research Interests
 
-Computational and statistical genomics, functional and experimental human genomics, high-throughput genetic measurement, sequencing bioinformatics, applied machine learning in molecular biology, small RNA biology, regularization and dimensionality reduction, -omics integration, genome technology
+Computational and statistical genomics, functional and experimental human genomics, gene regulation, non-coding genetic variation, high-throughput genetic measurement, sequencing bioinformatics, applied machine learning in molecular biology, epigenomics and epitranscriptomics, small RNA biology, regularization and dimensionality reduction
 
 ## Education
 
 |Ph.D.|Genetics|Stanford University School of Medicine|Present|
-|M.S.|Statistics|Stanford University|2018|
+|M.S.|Statistics|Stanford University|2019|
 |B.S.|Cell and Molecular Biology|University of Texas at Austin|2013|
 |B.A.|Political Science, Philosophy, and Plan II Honors|University of Texas at Austin|2013|
 
 ## Publications
 
-0. IN REVIEW: McFadden MJ, McIntyre ABR<sup>&dagger;</sup>, Gokhale NS<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Ipas H, Xhemalce B, Mason CE, Horner SM. [Post-transcriptional regulation of antiviral gene expression by N6-methyladenosine.](https://www.biorxiv.org/content/10.1101/2020.08.05.238337v1) 2020.
 0. IN REVIEW: Reinsborough CW<sup>&dagger;</sup>, Ipas H<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Gouws EB, Williams JP, Mercado M, Van Den Berg C, Xhemalce B. BCDIN3D RNA methyltransferase stimulates Aldolase C expression and glycolysis through let-7 microRNA in breast cancer cells. 2020.
-0. Spector LP, Tiffany M, Ferraro NM, **Abell NS**, Montgomery SB, Kay MA. [Evaluating the genomic parameters for optimizing rAAV-mediated homologous recombination.](https://www.sciencedirect.com/science/article/pii/S1525001620306511) Molecular Therapy. In Press, 2020.
+0. McFadden MJ, McIntyre ABR<sup>&dagger;</sup>, Gokhale NS<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Ipas H, Xhemalce B, Mason CE, Horner SM. [Post-transcriptional regulation of antiviral gene expression by N6-methyladenosine.](https://www.biorxiv.org/content/10.1101/2020.08.05.238337v1) Cell Reports. 2021;In Press.
+0. Spector LP, Tiffany M, Ferraro NM, **Abell NS**, Montgomery SB, Kay MA. [Evaluating the genomic parameters for optimizing rAAV-mediated homologous recombination.](https://pubmed.ncbi.nlm.nih.gov/33248247/) Molecular Therapy. 2020;S1525-0016(20)30651-1.
 0. Gay NR, Gloudemans M, Antonio ML, **Abell NS**, Balliu B, Park Y, Martin AR, Musharoff S, Rao A, Aguet F, Barbeira B, Bonazzola R, Hormozdiari F, GTEx Consortium, Ardlie K, Brown CD, Im HK, Lappalainen T, Wen X, Montgomery SB. [Impact of admixture and ancestry on eQTL analysis and GWAS colocalization in GTEx.](https://pubmed.ncbi.nlm.nih.gov/32912333/) Genome Biology. 2020;21(1):233.
 0. Ferraro NM<sup>&dagger;</sup>, Strober BJ<sup>&dagger;</sup>, Einson J, **Abell NS**, Aguet F, Berveira AN, Bucan M, Castel S, Davis JR, Greenwald E, Hess GT, Hilliard AT, Kember RL, Kotis B, Park Y, Peloso G, Ramdas S, Scott AJ, Smail C, Tsang EK, Zekacat S, Ziosi M, Aradhana, TOPMed Lipids Working Group, Ardlie KG, Assimes TL, Bassik MC, Brown CD, Correa A, Hall I, Im HK, Li X, Natarajan P, GTEx Consortium, Lappalainen T, Mohammadi P, Montgomery SB, Battle A. [Transcriptomic signatures across human tissues identify functional rare genetic variation.](https://pubmed.ncbi.nlm.nih.gov/32913073/) Science. 2020;369:eaaz5900.
 0. Balliu B, Durrant M, de Goede O, **Abell NS**, Li X, Liu B, Gloudemans MJ, Cook N, Smith KS, Pala M, Cucca F, Schlessinger D, Jaiswal S, Sabatti C, Lind L, Ingelsson E, Montgomery SB. [Genetic dysregulation of gene expression and splicing during a ten-year period of human aging.](https://www.ncbi.nlm.nih.gov/pubmed/31684996) Genome Biology. 2019;20(1):230.
