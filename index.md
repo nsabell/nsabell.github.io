@@ -20,7 +20,7 @@ Computational and statistical genomics, functional and experimental human genomi
 
 ## Publications
 
-0. IN REVIEW: Reinsborough CW<sup>&dagger;</sup>, Ipas H<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Gouws EB, Williams JP, Mercado M, Van Den Berg C, Xhemalce B. BCDIN3D RNA methyltransferase stimulates Aldolase C expression and glycolysis through let-7 microRNA in breast cancer cells. 2020.
+0. Reinsborough CW<sup>&dagger;</sup>, Ipas H<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Gouws EB, Williams JP, Mercado M, Van Den Berg C, Xhemalce B. BCDIN3D RNA methyltransferase stimulates Aldolase C expression and glycolysis through let-7 microRNA in breast cancer cells. Oncogene. 2021;In Press.
 0. McFadden MJ, McIntyre ABR<sup>&dagger;</sup>, Gokhale NS<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Ipas H, Xhemalce B, Mason CE, Horner SM. [Post-transcriptional regulation of antiviral gene expression by N6-methyladenosine.](https://www.biorxiv.org/content/10.1101/2020.08.05.238337v1) Cell Reports. 2021;In Press.
 0. Spector LP, Tiffany M, Ferraro NM, **Abell NS**, Montgomery SB, Kay MA. [Evaluating the genomic parameters for optimizing rAAV-mediated homologous recombination.](https://pubmed.ncbi.nlm.nih.gov/33248247/) Molecular Therapy. 2020;S1525-0016(20)30651-1.
 0. Gay NR, Gloudemans M, Antonio ML, **Abell NS**, Balliu B, Park Y, Martin AR, Musharoff S, Rao A, Aguet F, Barbeira B, Bonazzola R, Hormozdiari F, GTEx Consortium, Ardlie K, Brown CD, Im HK, Lappalainen T, Wen X, Montgomery SB. [Impact of admixture and ancestry on eQTL analysis and GWAS colocalization in GTEx.](https://pubmed.ncbi.nlm.nih.gov/32912333/) Genome Biology. 2020;21(1):233.
