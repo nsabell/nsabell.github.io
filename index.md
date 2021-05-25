@@ -5,7 +5,7 @@ markdown: kramdown
 
 ## About Me
 
-I am a Ph.D. Candidate in the Department of Genetics at Stanford University School of Medicine, and a member of the Montgomery Lab in the Departments of Pathology and Genetics. I also spend lots of time in the Statistics and Biomedical Data Science departments. I have experience and formal training in experimental molecular biology, bioinformatics/computational biology, and computational/applied statistics. In a past life, I also studied political theory/philosophy and researched comparative constitutional design. My full CV can be found [here](CV-NathanAbell.pdf).
+I am a Ph.D. Candidate in the Department of Genetics at Stanford University School of Medicine, and a member of the Montgomery Lab in the Departments of Pathology and Genetics. I also spend lots of time in the Statistics and Biomedical Data Science departments. My background includes practical experience and formal training in experimental molecular biology, bioinformatics/computational biology, and computational/applied statistics. In a past life, I also studied political theory/philosophy and researched (in a minor capacity) comparative constitutional design. My full CV is [here](CV-NathanAbell.pdf).
 
 ## Research Interests
 
@@ -14,13 +14,13 @@ Computational and statistical genomics, functional and experimental human genomi
 ## Education
 
 |Ph.D.|Genetics|Stanford University School of Medicine|Present|
-|M.S.|Statistics|Stanford University|2019|
+|M.S.|Statistics|Stanford University|2018|
 |B.S.|Cell and Molecular Biology|University of Texas at Austin|2013|
 |B.A.|Political Science, Philosophy, and Plan II Honors|University of Texas at Austin|2013|
 
 ## Publications
 
-0. IN REVIEW: **Abell NS**, DeGorter M, Gloudemans M, Greenwald E, Smith KS, He Z, Montgomery SB. [Multiple causal variants underlie genetic associations in humans.](https://biorxiv.org/cgi/content/short/2021.05.24.445471v1) 2021.
+0. IN REVIEW: **Abell NS**, DeGorter MK, Gloudemans M, Greenwald E, Smith KS, He ZS, Montgomery SB. [Multiple causal variants underlie genetic associations in humans.](https://biorxiv.org/cgi/content/short/2021.05.24.445471v1) 2021.
 0. Reinsborough CW<sup>&dagger;</sup>, Ipas H<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Gouws EB, Williams JP, Mercado M, Van Den Berg C, Xhemalce B. [BCDIN3D RNA methyltransferase stimulates Aldolase C expression and glycolysis through let-7 microRNA in breast cancer cells.](https://pubmed.ncbi.nlm.nih.gov/33664453/) Oncogene. 2021;40(13):2395-2406.
 0. McFadden MJ, McIntyre ABR<sup>&dagger;</sup>, Gokhale NS<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Ipas H, Xhemalce B, Mason CE, Horner SM. [Post-transcriptional regulation of antiviral gene expression by N6-methyladenosine.](https://pubmed.ncbi.nlm.nih.gov/33657363/) Cell Reports. 2021;34(9):108798.
 0. Spector LP, Tiffany M, Ferraro NM, **Abell NS**, Montgomery SB, Kay MA. [Evaluating the genomic parameters for optimizing rAAV-mediated homologous recombination.](https://pubmed.ncbi.nlm.nih.gov/33248247/) Molecular Therapy. 2020;S1525-0016(20)30651-1.
