@@ -20,6 +20,7 @@ Computational and statistical genomics, functional and experimental human genomi
 
 ## Publications
 
+0. IN REVIEW: **Abell NS**, DeGorter M, Gloudemans M, Greenwald E, Smith KS, He Z, Montgomery SB. [Multiple causal variants underlie genetic associations in humans.](https://biorxiv.org/cgi/content/short/2021.05.24.445471v1) 2021.
 0. Reinsborough CW<sup>&dagger;</sup>, Ipas H<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Gouws EB, Williams JP, Mercado M, Van Den Berg C, Xhemalce B. [BCDIN3D RNA methyltransferase stimulates Aldolase C expression and glycolysis through let-7 microRNA in breast cancer cells.](https://pubmed.ncbi.nlm.nih.gov/33664453/) Oncogene. 2021;40(13):2395-2406.
 0. McFadden MJ, McIntyre ABR<sup>&dagger;</sup>, Gokhale NS<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Ipas H, Xhemalce B, Mason CE, Horner SM. [Post-transcriptional regulation of antiviral gene expression by N6-methyladenosine.](https://pubmed.ncbi.nlm.nih.gov/33657363/) Cell Reports. 2021;34(9):108798.
 0. Spector LP, Tiffany M, Ferraro NM, **Abell NS**, Montgomery SB, Kay MA. [Evaluating the genomic parameters for optimizing rAAV-mediated homologous recombination.](https://pubmed.ncbi.nlm.nih.gov/33248247/) Molecular Therapy. 2020;S1525-0016(20)30651-1.
