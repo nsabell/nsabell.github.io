@@ -7,7 +7,7 @@ markdown: kramdown
 
 I am a computational and statistical human geneticist at [Octant](https://www.octant.bio/), where I contribute to a range of R&D projects in high-throughput synthetic biology, drug discovery, and precision medicine.
 
-Generally, I specialize in the design, analysis, and interpretation of high-throughput multiplexed molecular measurements, particularly of functional human genetic variation. I obtained my PhD and MS in genetics and statistics (respectively) from Stanford University and my BS and BA in molecular biology and political science (respectively) from the University of Texas at Austin. My background includes practical experience and formal training in experimental molecular biology, bioinformatics/computational biology, and computational/applied statistics. In a past life, I also studied political theory/philosophy and contributed to research in comparative constitutional design.
+I specialize in the design, analysis, and interpretation of high-throughput multiplexed molecular measurements, particularly of functional human genetic variation. I obtained my PhD and MS in genetics and statistics (respectively) from Stanford University and my BS and BA in molecular biology and political science (respectively) from the University of Texas at Austin. My background includes practical experience and formal training in experimental molecular biology, bioinformatics/computational biology, and computational/applied statistics. In a past life, I also studied political theory/philosophy and contributed to research in comparative constitutional design.
 
 ## Scientific Interests
 
