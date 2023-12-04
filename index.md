@@ -5,7 +5,7 @@ markdown: kramdown
 
 ## About Me
 
-I am a computational and statistical human geneticist at [Octant](https://www.octant.bio/), where I contribute to a range of R&D projects in high-throughput synthetic biology, drug discovery, and precision medicine.
+I am a computational and statistical human geneticist at [Octant](https://www.octant.bio/), where I contribute to a range of R&D projects in high-throughput synthetic biology, drug discovery, and precision medicine along with some traditional biostatistics.
 
 I specialize in the design, analysis, and interpretation of high-throughput multiplexed molecular measurements, particularly of functional human genetic variation. I obtained my PhD and MS in genetics and statistics (respectively) from Stanford University and my BS and BA in molecular biology and political science (respectively) from the University of Texas at Austin. My background includes practical experience and formal training in experimental molecular biology, bioinformatics/computational biology, and computational/applied statistics. In a past life, I also studied political theory/philosophy and contributed to research in comparative constitutional design.
 
@@ -22,9 +22,10 @@ Computational and statistical genomics, functional and experimental human genomi
 
 ## Publications
 
-0. IN REVIEW: Guo MG, Ang CE, Liu Y, Reynolds DL, Zhao Y, Donahue LKH, Yang X, Kellman LN, **Abell NS**, Yoo Y, Pershad Y, Geschwind DH, Montgomery SB, Duncan LE, Urban AE, Altman RB, Wernig M, Khavari PA. Atlas of functional regulatory variants in human neuropsychiatric disease.
 0. IN REVIEW: Kellman LN, Neela PH, Rao D, Wozniak GG, Guo MG, Hong A, Zhao Y, Yang X, Reynolds DL, Donohue LKH, Meyers RM, Siprashvilli Z, Shenoy R, Garcia OS, Elcavage L, **Abell NS**, Mondal S, Tao S, Montgomery SB, Khavari PA. Inherited functional regulatory risk variants for prevalent human cancers.
-0. Lu F<sup>&dagger;</sup>, Sossin A<sup>&dagger;</sup>, **Abell NS**, Montgomery SB, He Z. Deep learning-assisted genome-wide characterization of massively parallel reporter assays. Nucleic Acids Research. 2022, In Press.
+0. IN REVIEW: Debnath TK, **Abell NS**, Devanathan SK, Li YR, Navedo E, Xhemalce B. NAT10 and N4-Acetylcytidine restrain R-loop formation and related innate immunity responses.
+0. Guo MG, Ang CE, Liu Y, Reynolds DL, Zhao Y, Donahue LKH, Yang X, Kellman LN, **Abell NS**, Yoo Y, Pershad Y, Geschwind DH, Montgomery SB, Duncan LE, Urban AE, Altman RB, Wernig M, Khavari PA. [Integrative analyses highlight functional regulatory variants associated with neuropsychiatric diseases.](https://pubmed.ncbi.nlm.nih.gov/37857935/) Nature Genetics. 2023;55(11):1876-1891.
+0. Lu F<sup>&dagger;</sup>, Sossin A<sup>&dagger;</sup>, **Abell NS**, Montgomery SB, He Z. [Deep learning-assisted genome-wide characterization of massively parallel reporter assays.](https://pubmed.ncbi.nlm.nih.gov/36350674/) Nucleic Acids Research. 2023;11;50(20):11442-11454.
 0. **Abell NS**, DeGorter MK, Gloudemans M, Greenwald E, Smith KS, He ZS, Montgomery SB. [Multiple causal variants underlie genetic associations in humans.](https://www.science.org/doi/10.1126/science.abj5117) Science. 2022;1247:eabj5117.
 0. Reinsborough CW<sup>&dagger;</sup>, Ipas H<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Gouws EB, Williams JP, Mercado M, Van Den Berg C, Xhemalce B. [BCDIN3D RNA methyltransferase stimulates Aldolase C expression and glycolysis through let-7 microRNA in breast cancer cells.](https://pubmed.ncbi.nlm.nih.gov/33664453/) Oncogene. 2021;40(13):2395-2406.
 0. McFadden MJ, McIntyre ABR<sup>&dagger;</sup>, Gokhale NS<sup>&dagger;</sup>, **Abell NS**<sup>&dagger;</sup>, Ipas H, Xhemalce B, Mason CE, Horner SM. [Post-transcriptional regulation of antiviral gene expression by N6-methyladenosine.](https://pubmed.ncbi.nlm.nih.gov/33657363/) Cell Reports. 2021;34(9):108798.
@@ -43,7 +44,7 @@ Computational and statistical genomics, functional and experimental human genomi
 0. Polioudakis D, **Abell NS**, Iyer VR. [miR-503 represses human cell proliferation and directly targets the oncogene DDHD2 by non-canonical target pairing.](https://www.ncbi.nlm.nih.gov/pubmed/25653011) BMC Genomics. 2015;16:40.
 0. Polioudakis D, Bhinge AA, Killion PJ, Lee BK, **Abell NS**, Iyer VR. [A Myc-microRNA network promotes exit from quiescence by suppressing the interferon response and cell-cycle arrest genes.](https://www.ncbi.nlm.nih.gov/pubmed/23303785) Nucleic Acids Research. 2013;41(4):2239-54.
 
-## References
+## Academic References
 
 Dr. Stephen Montgomery - Stanford University School of Medicine
 
