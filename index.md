@@ -21,7 +21,7 @@ Computational and statistical genomics, functional and experimental human genomi
 |B.A.|Political Science, Philosophy, and Plan II Honors|University of Texas at Austin|2013|
 
 ## Publications
-
+0. IN REVIEW: DeGorter MK, Goddard PC, Karakoc E, Kundu S, Yan SM, Nachun D, **Abell NS**, Aguirre M, Carstensen T, Chen Z, Durrant M, Dwaracherla VR, Feng K, Gloudemans MJ, Hunter N, Moorthy MPS, Pomilla C, Rodrigues KB, Smith CJ, Smith KS, Ungar RA, Balliu B, Fellay J, Flicek P, McLaren PJ, Henn B, McCoy RC, Sugden L, Kundaje A, Sandhu MS, Gurdasani D, Montgomery SB. [Transcriptomics and chromatin accessibility in multiple African population samples.](https://www.biorxiv.org/content/10.1101/2023.11.04.564839v1)
 0. IN REVIEW: Kellman LN, Neela PH, Rao D, Wozniak GG, Guo MG, Hong A, Zhao Y, Yang X, Reynolds DL, Donohue LKH, Meyers RM, Siprashvilli Z, Shenoy R, Garcia OS, Elcavage L, **Abell NS**, Mondal S, Tao S, Montgomery SB, Khavari PA. Inherited functional regulatory risk variants for prevalent human cancers.
 0. IN REVIEW: Debnath TK, **Abell NS**, Devanathan SK, Li YR, Navedo E, Xhemalce B. NAT10 and N4-Acetylcytidine restrain R-loop formation and related innate immunity responses.
 0. Guo MG, Ang CE, Liu Y, Reynolds DL, Zhao Y, Donahue LKH, Yang X, Kellman LN, **Abell NS**, Yoo Y, Pershad Y, Geschwind DH, Montgomery SB, Duncan LE, Urban AE, Altman RB, Wernig M, Khavari PA. [Integrative analyses highlight functional regulatory variants associated with neuropsychiatric diseases.](https://pubmed.ncbi.nlm.nih.gov/37857935/) Nature Genetics. 2023;55(11):1876-1891.
