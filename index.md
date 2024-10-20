@@ -50,7 +50,7 @@ Computational and statistical genomics, functional and experimental human genomi
 
 Dr. Stephen Montgomery - Stanford University School of Medicine
 
-Dr. Blerta Xhemalce - University of Texas at Austin
+Dr. Blerta Xhemalce - Emory University (previously University of Texas at Austin)
 
 Dr. Vishwanath Iyer - University of Texas at Austin
 
