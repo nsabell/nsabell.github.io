@@ -1,9 +1,0 @@
-title: Nathan S. Abell
-url: "https://nsabell.github.io"
-
-markdown: kramdown
-
-sass:
-    style: compressed
-    sass_dir: _sass
-
